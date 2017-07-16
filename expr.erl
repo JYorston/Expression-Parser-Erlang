@@ -1,13 +1,6 @@
 -module(expr).
 -compile([export_all]).
 
-% James Yorston
-% JWGY4
-% Functional & Concurrent Programming
-% Assignment 2
-% 13/02/2017
-
-
 %
 % A suite of functions for handling arithmetical expressions
 %
